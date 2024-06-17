@@ -1,2 +1,2 @@
 # odin-ruby
-The Ruby course according to the The Odin Project
+The Ruby course of the The Odin Project
